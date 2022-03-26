@@ -1,2 +1,1 @@
-# terraform-module-aws-ecs-cluster
-Terraform module to deploy ECS cluster
+ECS Cluster on EC2
